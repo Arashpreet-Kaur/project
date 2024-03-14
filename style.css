@@ -1,0 +1,58 @@
+nav{
+    background-color:black;
+    position: fixed;
+    width: 100%;
+    top:0;
+    left:0;
+}
+ul{
+    list-style-type: none;
+    text-align: center;
+
+}
+li{
+    display: inline;
+    font-size: 20px;
+    margin-right: 20px;
+}
+a{
+    text-decoration: none;
+    color: whiite;
+}
+#arash{
+    font-size: larger;
+    color: brown;
+}
+#para{
+    color:red;
+}
+.arsh{
+    color:yellow;
+}
+p{
+    font-family: 'Courier New', Courier, monospace;
+    color: cornflowerblue;
+    font-size: medium;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    color: blueviolet;
+    
+}
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    color: chartreuse;
+}
+h3{
+    font-family: 'Times New Roman', Times, serif;
+    color: darkred;
+}
+footer{
+    position: fixed;
+    bottom:0;
+    text-align: center;
+}
+img{
+    margin: auto;
+    align:center;
+}
